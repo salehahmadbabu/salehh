@@ -19,9 +19,9 @@ $(function(){
 	});
 
 	$('.portfolio-filter').isotope({
-  // options
-  itemSelector: '.grid-item',
-  layoutMode: 'fitRows'
-});
+	  // options
+	  itemSelector: '.grid-item',
+	  layoutMode: 'fitRows'
+	});
 	
-})
+});
