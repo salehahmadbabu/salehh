@@ -18,7 +18,7 @@ $(function(){
 		smartSpeed: 700
 	});
 
-	$('.grid').isotope({
+	$('.portfolio-filter').isotope({
   // options
   itemSelector: '.grid-item',
   layoutMode: 'fitRows'
